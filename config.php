@@ -1,8 +1,8 @@
 <?php
 	$dblocation = "127.0.0.1"; 
 	$dbname = "mydb"; 
-	$dbuser = "viewer"; 
-	$dbpasswd = "viewer777d";
+	$dbuser = "****"; 
+	$dbpasswd = "*****";
 
 	session_start();
 
