@@ -1,6 +1,6 @@
 #!/bin/sh
 my_user='adm_mydb_backup'
-my_pwd='k3kmfo5s'
+my_pwd='********'
 
 db='mydb'
 
